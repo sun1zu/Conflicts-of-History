@@ -1,2 +1,2 @@
 # Conflicts-of-History
-Repo for COnflicts of History releases
+Repo for Conflicts of History releases
