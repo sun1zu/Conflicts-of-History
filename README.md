@@ -22,7 +22,7 @@ _This project is a remake of earlier, unreleased iterations of the game, revived
 
 Maks Belov ([artdeell](https://github.com/artdeell)) - coder of the first working prototype (Android Studio)
 Nikita Nizov ([Lazerny](https://github.com/Lazerny)) - research and unit design for early prototypes
-Andrei Shvedchikov, Bogdan Belov - early gameplay and design contributions
+Andrei Shvedchikov, Bogdan Belov ([feed4423](https://github.com/feed4423)) - early gameplay and design contributions
 
 ## Links
 Itch.io link: https://sun1zu.itch.io/conflicts-of-history
