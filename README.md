@@ -11,18 +11,20 @@ Team up, choose your troops on your app, and position your smartphones them on o
 
 ## **CREDITS OF THIS REMAKE**
 [sun1zu](https://github.com/sun1zu) - Unity developer
+
 Egor Malyshev - map design
 
 ## **ASSETS BY:**
 Ayub Irawan, Good Ware (icons)
+
 Simple Nature Pack ([link](https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple...))
 
 ## **SPECIAL THANKS**
 _This project is a remake of earlier, unreleased iterations of the game, revived ~~to help me secure a grade in History~~. I dedicate this section to everyone who contributed to the previous versions. If I’ve missed anyone or if you’d like to contribute further, please reach out!_
 
-Maks Belov ([artdeell](https://github.com/artdeell)) - coder of the first working prototype (Android Studio)
-Nikita Nizov ([Lazerny](https://github.com/Lazerny)) - research and unit design for early prototypes
-Andrei Shvedchikov, Bogdan Belov ([feed4423](https://github.com/feed4423)) - early gameplay and design contributions
+- Maks Belov ([artdeell](https://github.com/artdeell)) - coder of the first working prototype (Android Studio)
+- Nikita Nizov ([Lazerny](https://github.com/Lazerny)) - research and unit design for early prototypes
+- Andrei Shvedchikov, Bogdan Belov ([feed4423](https://github.com/feed4423)) - early gameplay and design contributions
 
 ## Links
 Itch.io link: https://sun1zu.itch.io/conflicts-of-history
